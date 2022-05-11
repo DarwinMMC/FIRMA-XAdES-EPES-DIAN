@@ -1,4 +1,4 @@
-# FIRMA-XAdES-EPES-DIAN
+# SIGNATURE-XAdES-EPES-DIAN
 Firma digital para facturación electrónica DIAN
 
 <h3>ejemplo de uso</h3>
